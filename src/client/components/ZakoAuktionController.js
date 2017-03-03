@@ -19,7 +19,6 @@ export default class ZakoAuktionController extends React.Component {
     }
 
     componentWillMount() {
-
         const model = {
             bezeichnungSpeichernButtonCounter : 0,
             title : "Hallo react....",
