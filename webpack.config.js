@@ -7,7 +7,7 @@ module.exports = {
     //     path.resolve(__dirname, './src/client/main.js')
     // ],
     output: {
-        file name: "./build/main.js",
+        filename: "./build/main.js",
     },
     // output: {
     //     path: __dirname + "/build/",
